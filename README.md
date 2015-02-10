@@ -1,4 +1,4 @@
-# CSVToXML
+# CSVToXML: A Python script to extract data from csv file and put in xml
 
 Run :
 
